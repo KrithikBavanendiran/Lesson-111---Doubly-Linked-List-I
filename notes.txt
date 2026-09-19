@@ -1,0 +1,6 @@
+Doubly Linked Lists
+- Linear Data Structures
+- Each Node consists of 3 parts
+- First is the previous node's address
+- Second is the data
+- Third is the next nodes address
